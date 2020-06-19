@@ -16,4 +16,4 @@ Rutas del Backend
   - REQUEST SUCCESS => { code: 200 }
   - REQUEST ERROR => { code: 404 }
 
-NOTA: No requiere de *Bcrypt* ni *JW*
+NOTA: No requiere de *Bcrypt* ni *JWT*
