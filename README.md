@@ -15,4 +15,5 @@ Rutas del Backend
   - POST { id: number, firtname: string, lastname: string, email: string, password: string } 
   - REQUEST SUCCESS => { code: 200 }
   - REQUEST ERROR => { code: 404 }
-    
+
+NOTA: No requiere de *Bcrypt* ni *JW*
